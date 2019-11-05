@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+
+    <!-- main activity -->
+    <string name="titleTextViewText">Hello World!</string>
+    <string name="nameTextViewText">Name</string>
+    <string name="nameTextFieldDesc">Enter Your Name Here</string>
+    <string name="btnOKText">OK</string>
+
+    <!-- main activity 2 -->
+    <string name="welcomeTextViewText">Welcome</string>
+    <string name="btnBackText">Back</string>
+</resources>
